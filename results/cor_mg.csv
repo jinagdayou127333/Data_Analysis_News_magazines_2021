@@ -1,0 +1,8 @@
+﻿,Unit Price,Yearly Price,Publishing Frequency,Number of Pages,Product Cluster,Introduction Cluster,Best-Selling
+Unit Price,1,0.684,-0.112,0.45,0.182,0.074,-0.067
+Yearly Price,0.684,1,0.505,0.354,0.157,0.032,-0.01
+Publishing frequency ,-0.112,0.505,1,-0.033,-0.011,-0.068,0.1
+Number of Pages ,0.45,0.354,-0.033,1,0.166,-0.035,-0.021
+Product Cluster,0.182,0.157,-0.011,0.166,1,-0.053,-0.006
+Introduction Cluster,0.074,0.032,-0.068,-0.035,-0.053,1,-0.027
+Best-Selling,-0.067,-0.01,0.1,-0.021,-0.006,-0.027,1
